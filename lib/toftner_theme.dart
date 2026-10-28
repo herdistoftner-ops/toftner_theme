@@ -115,7 +115,7 @@ class ThemeSettingsText {
   /// In Norwegian (bokmål).
   static const norwegian = ThemeSettingsText(
     theme: 'Tema',
-    appearance: 'Utseende',
+    appearance: 'Lyst eller mørkt',
     system: 'Som telefonen',
     light: 'Lyst',
     dark: 'Mørkt',
