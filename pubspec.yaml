@@ -1,0 +1,18 @@
+name: toftner_theme
+description: The look shared by the toftner.app apps (peach and brown), the other themes users can choose, and light or dark.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ^3.12.2
+  flutter: ">=3.44.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
